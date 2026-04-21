@@ -1,0 +1,6 @@
+@NeuraNx.API_HostAddress = http://localhost:5229
+
+GET {{NeuraNx.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

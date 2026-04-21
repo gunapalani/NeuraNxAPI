@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuraNx.API", "NeuraNx.API\NeuraNx.API.csproj", "{A92E6611-0971-4D2B-A30E-1E14963C48E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuraNx.Models", "NeuraNx.Models\NeuraNx.Models.csproj", "{A8E87B89-33AC-47C4-8931-ADC08B6627E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuraNx.Service", "NeuraNx.Service\NeuraNx.Service.csproj", "{76D58D20-876F-4B46-900C-6984D429386F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuraNx.Repository", "NeuraNx.Repository\NeuraNx.Repository.csproj", "{8BE50CFF-8C8D-4D19-840C-6026FF5AF945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92E6611-0971-4D2B-A30E-1E14963C48E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92E6611-0971-4D2B-A30E-1E14963C48E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92E6611-0971-4D2B-A30E-1E14963C48E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92E6611-0971-4D2B-A30E-1E14963C48E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E87B89-33AC-47C4-8931-ADC08B6627E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E87B89-33AC-47C4-8931-ADC08B6627E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E87B89-33AC-47C4-8931-ADC08B6627E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E87B89-33AC-47C4-8931-ADC08B6627E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D58D20-876F-4B46-900C-6984D429386F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D58D20-876F-4B46-900C-6984D429386F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D58D20-876F-4B46-900C-6984D429386F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D58D20-876F-4B46-900C-6984D429386F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE50CFF-8C8D-4D19-840C-6026FF5AF945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE50CFF-8C8D-4D19-840C-6026FF5AF945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE50CFF-8C8D-4D19-840C-6026FF5AF945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE50CFF-8C8D-4D19-840C-6026FF5AF945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD8711C-F309-4893-BE44-12A4F3A095FE}
+	EndGlobalSection
+EndGlobal
